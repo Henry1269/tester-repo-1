@@ -2,4 +2,6 @@ I created a sentiment analysis with
 vader
 nltk
 textblob
-there are 3 types of sentiment analysis, document level, sentence level etc. 
+I think vader is the best for sentiment analysis
+
+
